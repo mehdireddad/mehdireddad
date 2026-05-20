@@ -1,17 +1,7 @@
 <div align="center">
 
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  BANNER : place une image gothique noir & blanc dans /assets/    ║
-  ║  Suggestions (domaine public, Wikimedia Commons) :               ║
-  ║   - Gravure Gustave Doré (Paradis Perdu, Divine Comédie)         ║
-  ║   - Photo intérieur cathédrale gothique en N&B                   ║
-  ║   - Enluminure médiévale (manuscrit Très Riches Heures)          ║
-  ║  Pour l'instant, le chemin pointe vers ./assets/banner.png       ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<!-- Banner : gravure de Gustave Doré (1866) — "Descente de Lucifer", Paradise Lost. Domaine public, Wikimedia Commons. -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paradise_Lost_12.jpg" alt="banner" width="100%" />
 
 # ✠ Welcome to my GitHub ✠
 
@@ -46,13 +36,8 @@ I'm always working on something new, and GitHub is where most of that journey li
 </td>
 <td width="35%" align="center">
 
-<!--
-  Image secondaire : gravure d'ange médiéval.
-  Suggestion : gravure de Gustave Doré (anges du Paradis Perdu)
-  ou détail de vitrail / chapelle gothique en N&B.
-  Place-la dans /assets/angel.png
--->
-<img src="./assets/angel.png" width="220" alt="angel" />
+<!-- Gravure de Gustave Doré (1866) — Archange Michel, Paradise Lost. Domaine public, Wikimedia Commons. -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Paradise_Lost_1.jpg" width="220" alt="angel" />
 
 </td>
 </tr>
