@@ -1,23 +1,155 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-Hi! I’m a Software Engineer passionate about building reliable, scalable, and user-focused applications. I enjoy turning complex problems into clean, efficient solutions and continually sharpening my skills across modern development tools and technologies.<br><br>I thrive in environments where I can collaborate, learn, and contribute to meaningful projects—whether it’s crafting maintainable backend systems, designing intuitive frontend experiences, or exploring new technologies that push my boundaries.<br><br>I’m always working on something new, and GitHub is where most of that journey lives. Feel free to explore my projects, open issues, or reach out if you want to collaborate!
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  BANNER : place une image gothique noir & blanc dans /assets/    ║
+  ║  Suggestions (domaine public, Wikimedia Commons) :               ║
+  ║   - Gravure Gustave Doré (Paradis Perdu, Divine Comédie)         ║
+  ║   - Photo intérieur cathédrale gothique en N&B                   ║
+  ║   - Enluminure médiévale (manuscrit Très Riches Heures)          ║
+  ║  Pour l'instant, le chemin pointe vers ./assets/banner.png       ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
+<img src="./assets/banner.png" alt="banner" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhdredd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-reddad-898277304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdi.reddadpro@gmail.com) 
+# ✠ Welcome to my GitHub ✠
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehdireddad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehdireddad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdireddad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### `</>`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehdireddad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mhdredd_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-reddad-898277304/)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdi.reddadpro@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mehdireddad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚜ About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+Hi. I'm a **Software Engineer** passionate about building reliable, scalable, and user-focused applications. I enjoy turning complex problems into clean, efficient solutions and continually sharpening my skills across modern development tools and technologies.
+
+I thrive in environments where I can collaborate, learn, and contribute to meaningful projects — whether it's crafting maintainable backend systems, designing intuitive frontend experiences, or exploring new technologies that push my boundaries.
+
+I'm always working on something new, and GitHub is where most of that journey lives. Feel free to explore my projects, open issues, or reach out if you want to collaborate.
+
+</td>
+<td width="35%" align="center">
+
+<!--
+  Image secondaire : gravure d'ange médiéval.
+  Suggestion : gravure de Gustave Doré (anges du Paradis Perdu)
+  ou détail de vitrail / chapelle gothique en N&B.
+  Place-la dans /assets/angel.png
+-->
+<img src="./assets/angel.png" width="220" alt="angel" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-1a1a1a?style=for-the-badge&logo=latex&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & Databases
+
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1a1a1a?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1a1a1a?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1a1a1a?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-1a1a1a?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-1a1a1a?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Quill](https://img.shields.io/badge/Quill-1a1a1a?style=for-the-badge&logo=apache&logoColor=white)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### Design / Creative
+
+![Blender](https://img.shields.io/badge/Blender-1a1a1a?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-1a1a1a?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-1a1a1a?style=for-the-badge&logo=adobe&logoColor=white)
+
+### Hardware & Tools
+
+![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a1a?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-1a1a1a?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
+
+---
+
+## ☩ GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mehdireddad&bg_color=0d1117&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&include_all_commits=false&count_private=false)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=mehdireddad&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=cccccc&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdireddad&bg_color=0d1117&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## ✠ Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mehdireddad&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>✦ ⸻ ✦ ⸻ ✦</sub>
+
+[![Visits](https://visitcount.itsvg.in/api?id=mehdireddad&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
